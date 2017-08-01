@@ -1,0 +1,17 @@
+/* write your CSS here */
+h1 {
+  color: red;
+}
+
+p {
+  font-family: helvetica;
+  color: blue;
+}
+
+ul li {
+  background-color: yellow;
+}
+
+ol li {
+  background-color: teal;
+}
